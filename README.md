@@ -10,15 +10,19 @@ This page explains how to secure and set up a Linux distribution on a virtual ma
 - Loaded my 'Catalog' project from earlier in the year
 - Used PostGres database instead of SQL
   
-
 ## Configurations
 
-To log in as user 'grader':
+- Updated packages to most recent versions
+- Changed ssh port from 22 to 2200
+- 
+
+## Login Instructions for user 'grader'
 
 - IP: 3.212.153.112 
 - SSH port: 2200  
 - URL: http://wtxlabs.net  
 - Password: grader
+- Login using this command: `ssh -i grader_key -p 2200 grader@wtxlabs.net`
 
 ## Software Installed
 
