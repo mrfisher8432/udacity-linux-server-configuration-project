@@ -36,3 +36,6 @@ To log in as user 'grader':
 
 ## Resources
 
+[How To Deploy a Flask Application on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)  
+[Udacity Knowledge Forums](https://knowledge.udacity.com/)
+[boisalai/udacity-linux-server-configuration](https://github.com/boisalai/udacity-linux-server-configuration)
