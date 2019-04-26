@@ -1,10 +1,8 @@
 # udacity-linux-server-configuration-project
 Final project for the Udacity Full Stack Web Developer's Nanodegree 
 
-
 ## Intro
 
-This page explains how to secure and set up a Linux distribution on a virtual machine, install and configure a web and database server to host a web application. 
 - Linux distribution Ubuntu 18.04 LTS
 - Amazon Lightsail Virtual Private Server
 - Loaded my 'Catalog' project from earlier in the year
@@ -14,7 +12,8 @@ This page explains how to secure and set up a Linux distribution on a virtual ma
 
 - Updated packages to most recent versions
 - Changed ssh port from 22 to 2200
-- 
+- Enabled ports: 80, 123, 2200
+- Set firewall rules using UFW
 
 ## Login Instructions for user 'grader'
 
